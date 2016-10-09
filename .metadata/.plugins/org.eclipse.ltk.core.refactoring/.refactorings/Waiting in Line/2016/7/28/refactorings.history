@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;currentIndex&apos; in &apos;MainPackage.Main.main(...)&apos; to &apos;waittingIndex&apos;&#x0D;&#x0A;- Original project: &apos;Waiting in Line&apos;&#x0D;&#x0A;- Original element: &apos;MainPackage.Main.main(String[]).currentIndex&apos;&#x0D;&#x0A;- Renamed element: &apos;currentIndex&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;currentIndex&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;MainPackage{Main.java[Main~main~\[QString;@currentIndex!235!255!239!250!I!0!false" name="waittingIndex" references="true" stamp="1467768106683" version="1.0"/>
+</session>

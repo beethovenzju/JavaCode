@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+org.eclipse.debug.core.USE_STEP_FILTERS=true
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions>\r\n<expression enabled\="true" text\="a.substring(i, a.length()"/>\r\n<expression enabled\="true" text\="a.substring(i, a.length())"/>\r\n<expression enabled\="true" text\="a.substring(0, i + 1)"/>\r\n<expression enabled\="true" text\="tmp &lt;&lt; 3 + 7"/>\r\n</watchExpressions>\r\n

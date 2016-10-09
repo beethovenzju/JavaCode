@@ -1,0 +1,19 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="MainPackage.Main$Polynomial"><rhs name\="MainPackage.Main$Polynomial"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="java.math.BigDecimal"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="MainPackage.Main$EnglishClass"><rhs name\="MainPackage.Main$EnglishClass"/></lhs><lhs name\="MainPackage.Main$AdjacentInfo"><rhs name\="MainPackage.Main$AdjacentInfo"/></lhs><lhs name\="java.io.Reader"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.lang.Readable"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.io.BufferedReader"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="Sort.Sorter"><rhs name\="Sort.MergeSorter"/></lhs><lhs name\="Sort.MergeSorter"><rhs name\="Sort.MergeSorter"/></lhs><lhs name\="MainPackage.Main$Info"><rhs name\="MainPackage.Main$Info"/></lhs><lhs name\="java.util.AbstractQueue"><rhs name\="java.util.PriorityQueue"/></lhs><lhs name\="java.util.Queue"><rhs name\="java.util.PriorityQueue"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.PriorityQueue"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.PriorityQueue"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.PriorityQueue"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.PriorityQueue"><rhs name\="java.util.PriorityQueue"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.AbstractStringBuilder"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.Appendable"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.RandomAccess"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.ArrayList"><rhs name\="java.util.ArrayList"/></lhs></history>
+content_assist_number_of_computers=13
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Consolas|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+proposalOrderMigrated=true
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;frist&apos; in &apos;MainPackage.Main.main(...)&apos; to &apos;first&apos;&#x0D;&#x0A;- Original project: &apos;Maximum Subsequence Sum&apos;&#x0D;&#x0A;- Original element: &apos;MainPackage.Main.main(String[]).frist&apos;&#x0D;&#x0A;- Renamed element: &apos;frist&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;frist&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;MainPackage{Main.java[Main~main~\[QString;@frist!220!229!224!228!I!0!false" name="first" references="true" stamp="1467274611263" version="1.0"/>
+</session>

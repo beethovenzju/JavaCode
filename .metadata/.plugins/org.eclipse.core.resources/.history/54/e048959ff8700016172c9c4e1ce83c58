@@ -1,0 +1,68 @@
+package MainPackage;
+
+import java.util.*;
+
+public class Second {
+
+	public boolean chkIdentical(TreeNode A, TreeNode B) {
+        List<Integer> list = getOrder(B);
+        return isMatched(A, list);
+    }
+	
+	public List<Integer> getOrder(TreeNode node){
+		List<Integer> list = new LinkedList<Integer>();
+		Queue<TreeNode> que = new LinkedList<TreeNode>();
+		que.add(node);
+		while(que.size() != 0){
+			TreeNode tmp = que.poll();
+			list.add(tmp.val);
+			if(tmp.left != null)
+				que.add(tmp.left);
+			if(tmp.right != null)
+				que.add(tmp.right);
+		}
+		return list;
+	}
+	
+	public boolean isMatched(TreeNode node, List<Integer> list){
+		Queue<TreeNode> que = new LinkedList<TreeNode>();
+		que.add(node);
+		int index = 0;
+		Boolean isFound = true;
+		while(que.size() != 0){
+			TreeNode tmp = que.poll();
+			if(index >= list.size()){
+				isFound = false;
+				break;
+			}
+			if(tmp.val != list.get(index)){
+				isFound = false;
+				break;
+			}
+			
+			if(tmp.left != null)
+				que.add(tmp.left);
+			if(tmp.right != null)
+				que.add(tmp.right);
+			index++;
+		}
+		if(isFound && index == list.size())
+			return true;
+		
+		if(node.left != null && isMatched(node.left, list))
+			return true;
+		
+		if(node.right != null && isMatched(node.right, list))
+			return true;
+		return false;
+	}
+	
+	public static class TreeNode {
+	    int val = 0;
+	    TreeNode left = null;
+	    TreeNode right = null;
+	    public TreeNode(int val) {
+	        this.val = val;
+	    }
+	}
+}

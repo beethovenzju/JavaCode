@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;midRadix&apos; in &apos;MainPackage.Main.main(...)&apos; to &apos;mid&apos;&#x0D;&#x0A;- Original project: &apos;Radix&apos;&#x0D;&#x0A;- Original element: &apos;MainPackage.Main.main(String[]).midRadix&apos;&#x0D;&#x0A;- Renamed element: &apos;midRadix&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;midRadix&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;MainPackage{Main.java[Main~main~\[QString;@midRadix!407!426!418!425!QBigInteger;!0!false" name="mid" references="true" stamp="1467445208337" version="1.0"/>
+</session>
